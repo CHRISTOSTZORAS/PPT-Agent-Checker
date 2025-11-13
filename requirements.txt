@@ -1,0 +1,6 @@
+python-pptx==0.6.21
+language-tool-python==2.7.1
+openai==0.28
+python-dotenv==1.0.0
+langdetect
+scikit-learn
